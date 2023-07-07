@@ -1,0 +1,23 @@
+{
+    "Orderid": 1968,
+    "Adress": " Tagle 2849",
+    "Status": "Despachado",
+    "Articles": 
+        [
+            {
+            "Name": "laptop",
+            "Quantity": 5,
+            "Dangerous": false
+            }
+            {
+            "Name": "Telefono",
+            "Quantity": 11,
+            "Dangerous": false
+            }
+            {
+            "Name": "Baterias",
+            "Quantity": 48,
+            "Dangerous": true
+            }
+        ]
+}
